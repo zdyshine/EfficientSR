@@ -2,5 +2,5 @@
 
 
 
-
-# fork from https://github.com/xinntao/BasicSR    
+# Thanks
+Fork from https://github.com/xinntao/BasicSR    
